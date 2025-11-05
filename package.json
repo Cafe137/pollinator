@@ -1,17 +1,15 @@
 {
-  "name": "pollinator",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "dependencies": {
-    "@ethersphere/bee-js": "^9.6.0",
-    "cafe-utility": "^30.0.1"
-  }
+    "name": "pollinator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "dependencies": {
+        "@ethersphere/bee-js": "^10.1.1",
+        "cafe-utility": "^33.3.2"
+    }
 }
